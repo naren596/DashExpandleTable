@@ -1,0 +1,293 @@
+[
+  {
+    "": 1,
+    "Class": "1st",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0,
+    "PNL": -248943
+  },
+  {
+    "": 2,
+    "Class": "2nd",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0,
+    "PNL": null
+  },
+  {
+    "": 3,
+    "Class": "3rd",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 35,
+    "PNL": 35353
+  },
+  {
+    "": 4,
+    "Class": "Crew",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0,
+    "PNL": 68686
+  },
+  {
+    "": 5,
+    "Class": "1st",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0,
+    "PNL": 6864763
+  },
+  {
+    "": 6,
+    "Class": "2nd",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0,
+    "PNL": -544535
+  },
+  {
+    "": 7,
+    "Class": "3rd",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 17,
+    "PNL": 34636
+  },
+  {
+    "": 8,
+    "Class": "Crew",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "No",
+    "Freq": 0,
+    "PNL": 36346
+  },
+  {
+    "": 9,
+    "Class": "1st",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 118,
+    "PNL": 879677
+  },
+  {
+    "": 10,
+    "Class": "2nd",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 154,
+    "PNL": 8654763
+  },
+  {
+    "": 11,
+    "Class": "3rd",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 387,
+    "PNL": -32523562
+  },
+  {
+    "": 12,
+    "Class": "Crew",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 670,
+    "PNL": -523647
+  },
+  {
+    "": 13,
+    "Class": "1st",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 4,
+    "PNL": 90675
+  },
+  {
+    "": 14,
+    "Class": "2nd",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 13,
+    "PNL": 1244
+  },
+  {
+    "": 15,
+    "Class": "3rd",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 89,
+    "PNL": -3645
+  },
+  {
+    "": 16,
+    "Class": "Crew",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "No",
+    "Freq": 3,
+    "PNL": 43637
+  },
+  {
+    "": 17,
+    "Class": "1st",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 5,
+    "PNL": -21456
+  },
+  {
+    "": 18,
+    "Class": "2nd",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 11,
+    "PNL": -97676
+  },
+  {
+    "": 19,
+    "Class": "3rd",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 13,
+    "PNL": -668768
+  },
+  {
+    "": 20,
+    "Class": "Crew",
+    "Sex": "Male",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 0,
+    "PNL": 43
+  },
+  {
+    "": 21,
+    "Class": "1st",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 1,
+    "PNL": 0
+  },
+  {
+    "": 22,
+    "Class": "2nd",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 13,
+    "PNL": -3452
+  },
+  {
+    "": 23,
+    "Class": "3rd",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 14,
+    "PNL": -7657643
+  },
+  {
+    "": 24,
+    "Class": "Crew",
+    "Sex": "Female",
+    "Age": "Child",
+    "Survived": "Yes",
+    "Freq": 0,
+    "PNL": 454
+  },
+  {
+    "": 25,
+    "Class": "1st",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 57,
+    "PNL": 657856
+  },
+  {
+    "": 26,
+    "Class": "2nd",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 14,
+    "PNL": -9427
+  },
+  {
+    "": 27,
+    "Class": "3rd",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 75,
+    "PNL": 4564
+  },
+  {
+    "": 28,
+    "Class": "Crew",
+    "Sex": "Male",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 192,
+    "PNL": 3734745
+  },
+  {
+    "": 29,
+    "Class": "1st",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 140,
+    "PNL": 457458
+  },
+  {
+    "": 30,
+    "Class": "2nd",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 80,
+    "PNL": 6226
+  },
+  {
+    "": 31,
+    "Class": "3rd",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 76,
+    "PNL": -436347
+  },
+  {
+    "": 32,
+    "Class": "Crew",
+    "Sex": "Female",
+    "Age": "Adult",
+    "Survived": "Yes",
+    "Freq": 20,
+    "PNL": 97674
+  },
+  {
+    "": ""
+  }
+]

@@ -1,0 +1,15 @@
+Package: dashReactTable
+Title: Custom dash component with pivot suppport for aggregations
+Version: 0.0.1
+Authors @R: as.person(c(Narendra Kunapareddy <narendra.kunapareddy@cci.com>))
+Description: Custom dash component with pivot suppport for aggregations
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+Author: Narendra Kunapareddy [aut]
+Maintainer: Narendra Kunapareddy <narendra.kunapareddy@cci.com>
