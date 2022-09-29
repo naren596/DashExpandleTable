@@ -16,7 +16,7 @@
   "author": "Narendra Kunapareddy <narendra.kunapareddy@cci.com>",
   "license": "MIT",
   "dependencies": {
-    "d3-scale": "^3.0.1",
+    "d3-scale": "^4.0.2",
     "lodash": "^4.17.15",
     "numeral": "^2.0.6",
     "ramda": "^0.26.1",
